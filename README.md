@@ -5,7 +5,7 @@
  ## ARCHITECTURAL DIAGRAM
  ![project architecture.](https://github.com/avwenaghagha/CAPSTONE-PROJECT/blob/main/achitecture.png)
 ### TECHNOLOGY USED
-## The technologies used in your data engineering project include:
+## The technologies used in this data engineering project include:
 - Azure Data Factory for data ingestion
 - SQL Server (on-premises) as the data source
 - Azure Blob Storage for data storage
